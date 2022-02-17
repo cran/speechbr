@@ -1,0 +1,14 @@
+64952b10fd45c0a5b837032b4f984cc1 *DESCRIPTION
+513dc5674f0f3edb39df272d0f578ef3 *LICENSE
+69c38ffba0fa5f5b8e87161d6113e203 *NAMESPACE
+f7702dd7a433255ea1a9edce0ba1b11e *R/scrap-table-tools.R
+f58bac0da4b8f693f6d0afcbb6136d7f *R/scrap-text-tools.R
+5228423fc1d1a5781dffab478f0661d2 *R/speechbr_data.R
+b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
+0cf4de77c2fff6a21fb60283ceb0ed4e *README.md
+31f231ad335f5ce53dfe93a4e6ba8cb2 *man/figures/hexlogo.png
+8e8af7b7f24d82fcd130fc0c3b041f55 *man/figures/wordcloud.png
+8f4aad003a999fae004ba9361f9a99d6 *man/pipe.Rd
+e6b9e1786dc582630ab524fcb1390f9b *man/speech_data.Rd
+67d71a172c61ca530c4f940480d630ee *tests/testthat.R
+3845c2a32fd0e05a752a289a39f24967 *tests/testthat/test-speech-data.R
