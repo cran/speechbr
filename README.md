@@ -4,6 +4,8 @@
 # speechbr <img src="man/figures/hexlogo.png" align="right" width = "120px"/>
 
 <!-- badges: start -->
+
+[![](https://cranlogs.r-pkg.org/badges/speechbr)](https://cran.r-project.org/package=speechbr)
 <!-- badges: end -->
 
 ## Overview
@@ -14,6 +16,11 @@ deputies, that is, their ideias and thoughts.
 The data is obtained on [Discursos e Notas
 Taquigráficas](https://www2.camara.leg.br/atividade-legislativa/discursos-e-notas-taquigraficas)
 of [Câmara dos Deputados](https://www.camara.leg.br/).
+
+## Observation
+
+The released version from CRAN is limited to speeches before 2022. For
+access speeches after 2021-12-31, use the development version.
 
 ## Installation
 
